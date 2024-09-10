@@ -1,4 +1,4 @@
-# Weather_Crop_Planning
+# Weather Crop Planning
 
 This project aims to develop a localized weather-informed crop planning system for sustainable agriculture in India. The system integrates weather forecasting and crop recommendation to help farmers make informed decisions about crop selection and cultivation practices. Here's an overview of the key components:
 
